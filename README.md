@@ -16,16 +16,16 @@
 - Applied match 3 mechanism and applied visual effects harmoniously into game play.
 - Visit store: [Dream Home](https://play.google.com/store/apps/details?id=com.sotalabs.thalia.decor.match3&pcampaignid=web_share)
 
-![DH1](/assets/dh1.PNG)
-![DH2](/assets/dh2.PNG)
+![DH1](/assets/dh1.png)
+![DH2](/assets/dh2.png)
 
 ### Dream Home
 - Position: Unity developer.
 - Tackled collisions, character animations, and game feeling of a 2D combat game.
 - Visit store: [Hero of Lighthalzen](https://play.google.com/store/apps/details?id=com.sotalabs.hero.lighthalzen&pcampaignid=web_share)
   
-![Hero1](/assets/hero1.PNG)
-![Hero2](/assets/hero2.PNG)
+![Hero1](/assets/hero1.png)
+![Hero2](/assets/hero2.png)
 
 ## Projects
 ### Keyboard After Vacation

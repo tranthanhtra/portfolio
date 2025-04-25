@@ -11,6 +11,22 @@
 - Have basic knowledge of blockchain technology and integrate popular chains into games.
 - Worked closely with 2D artists and VFX artists for better performance and more efficient work flow.
 
+### Dream Home
+- Position: Unity developer
+- Applied match 3 mechanism and applied visual effects harmoniously into game play.
+- Visit store: [Dream Home](https://play.google.com/store/apps/details?id=com.sotalabs.thalia.decor.match3&pcampaignid=web_share)
+
+![DH1](/assets/dh1.PNG)
+![DH2](/assets/dh2.PNG)
+
+### Dream Home
+- Position: Unity developer.
+- Tackled collisions, character animations, and game feeling of a 2D combat game.
+- Visit store: [Hero of Lighthalzen](https://play.google.com/store/apps/details?id=com.sotalabs.hero.lighthalzen&pcampaignid=web_share)
+  
+![Hero1](/assets/hero1.PNG)
+![Hero2](/assets/hero2.PNG)
+
 ## Projects
 ### Keyboard After Vacation
 [Published game](https://tranthanhtra.itch.io/keyboard-after-a-vacation)
